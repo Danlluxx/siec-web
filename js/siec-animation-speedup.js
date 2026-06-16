@@ -123,7 +123,13 @@
         style.textContent = [
             '.t-records_animated{transition-property:opacity!important;transition-duration:.18s!important;transition-timing-function:cubic-bezier(.22,.61,.36,1)!important;}',
             '.r_anim{transition-duration:.22s!important;transition-timing-function:cubic-bezier(.22,.61,.36,1)!important;}',
-            '.t-slds__arrow_wrapper,.t-btn,.tn-atom{transition-duration:.22s!important;transition-timing-function:cubic-bezier(.22,.61,.36,1)!important;}'
+            '.t-slds__arrow_wrapper,.t-btn,.tn-atom{transition-duration:.22s!important;transition-timing-function:cubic-bezier(.22,.61,.36,1)!important;}',
+            '#rec662803896 .tn-elem[data-elem-type=\"image\"] .tn-atom__img,',
+            '#rec662803896 .tn-elem[data-elem-type=\"shape\"] .t-bgimg{filter:grayscale(1)!important;transition:filter .22s cubic-bezier(.22,.61,.36,1),opacity .22s cubic-bezier(.22,.61,.36,1),transform .22s cubic-bezier(.22,.61,.36,1)!important;}',
+            '#rec662803896 .tn-elem[data-elem-type=\"image\"]:hover .tn-atom__img,',
+            '#rec662803896 .tn-elem[data-elem-type=\"shape\"]:hover .t-bgimg,',
+            '#rec662803896 .tn-elem[data-elem-type=\"image\"]:focus-within .tn-atom__img,',
+            '#rec662803896 .tn-elem[data-elem-type=\"shape\"]:focus-within .t-bgimg{filter:grayscale(0)!important;}'
         ].join('');
         document.head.appendChild(style);
     }

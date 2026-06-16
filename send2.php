@@ -52,7 +52,7 @@ $kit_str = !empty($kit) ? implode(", ", $kit) : "не выбрано";
 $dateTime = date("d.m.Y H:i");
 
 $questionnaireId = siteGenerateQuestionnaireId('РОУ');
-$attachmentName = preg_replace('/^РОУ-/u', 'ROU-', $questionnaireId) . '.docx';
+$attachmentName = $questionnaireId . '.docx';
 $subject = "Опросный лист: Редукционно-охладительная установка {$questionnaireId}";
 
 $message = "

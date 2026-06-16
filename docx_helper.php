@@ -105,6 +105,7 @@ function siteDocxCreateDocument(string $templatePath, string $attachmentName, ca
     $xpath->registerNamespace('w', 'http://schemas.openxmlformats.org/wordprocessingml/2006/main');
 
     $mutator($dom, $xpath);
+    siteDocxForceTimesNewRomanInDocument($dom, $xpath);
 
     $zip->addFromString('word/document.xml', $dom->saveXML());
     $zip->close();
@@ -172,7 +173,71 @@ function siteDocxCreateRunProperties(DOMDocument $dom, ?DOMElement $runPropertie
         $result->appendChild($dom->createElementNS($namespace, 'w:noProof'));
     }
 
+    siteDocxForceTimesNewRomanOnRunProperties($dom, $result);
+
     return $result;
+}
+
+function siteDocxForceTimesNewRomanOnRunProperties(DOMDocument $dom, DOMElement $runProperties): void
+{
+    $namespace = 'http://schemas.openxmlformats.org/wordprocessingml/2006/main';
+    $fontNode = null;
+
+    foreach ($runProperties->childNodes as $child) {
+        if ($child instanceof DOMElement && $child->localName === 'rFonts') {
+            $fontNode = $child;
+            break;
+        }
+    }
+
+    if (!($fontNode instanceof DOMElement)) {
+        $fontNode = $dom->createElementNS($namespace, 'w:rFonts');
+
+        if ($runProperties->firstChild instanceof DOMNode) {
+            $runProperties->insertBefore($fontNode, $runProperties->firstChild);
+        } else {
+            $runProperties->appendChild($fontNode);
+        }
+    }
+
+    foreach (['asciiTheme', 'hAnsiTheme', 'eastAsiaTheme', 'cstheme'] as $attribute) {
+        $fontNode->removeAttributeNS($namespace, $attribute);
+    }
+
+    foreach (['ascii', 'hAnsi', 'eastAsia', 'cs'] as $attribute) {
+        $fontNode->setAttributeNS($namespace, 'w:' . $attribute, 'Times New Roman');
+    }
+}
+
+function siteDocxForceTimesNewRomanInDocument(DOMDocument $dom, DOMXPath $xpath): void
+{
+    $namespace = 'http://schemas.openxmlformats.org/wordprocessingml/2006/main';
+
+    foreach ($xpath->query('//w:r') as $run) {
+        if (!($run instanceof DOMElement)) {
+            continue;
+        }
+
+        $runProperties = null;
+        foreach ($xpath->query('./w:rPr', $run) as $rPr) {
+            if ($rPr instanceof DOMElement) {
+                $runProperties = $rPr;
+                break;
+            }
+        }
+
+        if (!($runProperties instanceof DOMElement)) {
+            $runProperties = $dom->createElementNS($namespace, 'w:rPr');
+
+            if ($run->firstChild instanceof DOMNode) {
+                $run->insertBefore($runProperties, $run->firstChild);
+            } else {
+                $run->appendChild($runProperties);
+            }
+        }
+
+        siteDocxForceTimesNewRomanOnRunProperties($dom, $runProperties);
+    }
 }
 
 function siteDocxCreateValueParagraphProperties(DOMDocument $dom, ?DOMElement $paragraphProperties = null): ?DOMElement

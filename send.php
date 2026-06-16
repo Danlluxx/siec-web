@@ -48,7 +48,7 @@ $fio        = sitePostValue("fio");
 $signature  = sitePostValue("signature");
 
 $questionnaireId = siteGenerateQuestionnaireId('ТМ');
-$attachmentName = preg_replace('/^ТМ-/u', 'TDM-', $questionnaireId) . '.docx';
+$attachmentName = preg_replace('/^ТМ-/u', 'ТДМ-', $questionnaireId) . '.docx';
 $subject = "Опросный лист: Тягодутьевая машина {$questionnaireId}";
 $dateTime = date("d.m.Y H:i");
 
