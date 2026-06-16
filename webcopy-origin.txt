@@ -1,0 +1,318 @@
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\siec-brn.ru\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://siec-brn.ru/
+File Name: C:\Downloaded Web Sites\siec-brn.ru\index.htm
+Content Type: text/html
+
+Uri: https://siec-brn.ru/catalog1
+File Name: C:\Downloaded Web Sites\siec-brn.ru\catalog1.html
+Content Type: text/html
+
+Uri: https://siec-brn.ru/catalog1_1
+File Name: C:\Downloaded Web Sites\siec-brn.ru\catalog1_1.html
+Content Type: text/html
+
+Uri: https://siec-brn.ru/catalog1_10
+File Name: C:\Downloaded Web Sites\siec-brn.ru\catalog1_10.html
+Content Type: text/html
+
+Uri: https://siec-brn.ru/catalog1_11
+File Name: C:\Downloaded Web Sites\siec-brn.ru\catalog1_11.html
+Content Type: text/html
+
+Uri: https://siec-brn.ru/catalog1_12
+File Name: C:\Downloaded Web Sites\siec-brn.ru\catalog1_12.html
+Content Type: text/html
+
+Uri: https://siec-brn.ru/catalog1_13
+File Name: C:\Downloaded Web Sites\siec-brn.ru\catalog1_13.html
+Content Type: text/html
+
+Uri: https://siec-brn.ru/catalog1_2
+File Name: C:\Downloaded Web Sites\siec-brn.ru\catalog1_2.html
+Content Type: text/html
+
+Uri: https://siec-brn.ru/catalog1_3
+File Name: C:\Downloaded Web Sites\siec-brn.ru\catalog1_3.html
+Content Type: text/html
+
+Uri: https://siec-brn.ru/catalog1_4
+File Name: C:\Downloaded Web Sites\siec-brn.ru\catalog1_4.html
+Content Type: text/html
+
+Uri: https://siec-brn.ru/catalog1_5
+File Name: C:\Downloaded Web Sites\siec-brn.ru\catalog1_5.html
+Content Type: text/html
+
+Uri: https://siec-brn.ru/catalog1_6
+File Name: C:\Downloaded Web Sites\siec-brn.ru\catalog1_6.html
+Content Type: text/html
+
+Uri: https://siec-brn.ru/catalog1_7
+File Name: C:\Downloaded Web Sites\siec-brn.ru\catalog1_7.html
+Content Type: text/html
+
+Uri: https://siec-brn.ru/catalog1_8
+File Name: C:\Downloaded Web Sites\siec-brn.ru\catalog1_8.html
+Content Type: text/html
+
+Uri: https://siec-brn.ru/catalog1_9
+File Name: C:\Downloaded Web Sites\siec-brn.ru\catalog1_9.html
+Content Type: text/html
+
+Uri: https://siec-brn.ru/catalog2
+File Name: C:\Downloaded Web Sites\siec-brn.ru\catalog2.html
+Content Type: text/html
+
+Uri: https://siec-brn.ru/catalog2_1
+File Name: C:\Downloaded Web Sites\siec-brn.ru\catalog2_1.html
+Content Type: text/html
+
+Uri: https://siec-brn.ru/catalog2_2
+File Name: C:\Downloaded Web Sites\siec-brn.ru\catalog2_2.html
+Content Type: text/html
+
+Uri: https://siec-brn.ru/catalog2_3
+File Name: C:\Downloaded Web Sites\siec-brn.ru\catalog2_3.html
+Content Type: text/html
+
+Uri: https://siec-brn.ru/contacts
+File Name: C:\Downloaded Web Sites\siec-brn.ru\contacts.html
+Content Type: text/html
+
+Uri: https://siec-brn.ru/tilda-blocks-page41063284.min.css?t=1710951121
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41063284.min.css
+Content Type: text/css
+
+Uri: https://siec-brn.ru/tilda-blocks-page41063284.min.js?t=1710951121
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41063284.min.js
+Content Type: application/javascript
+
+Uri: https://siec-brn.ru/tilda-blocks-page41063762.min.css?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41063762.min.css
+Content Type: text/css
+
+Uri: https://siec-brn.ru/tilda-blocks-page41063762.min.js?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41063762.min.js
+Content Type: application/javascript
+
+Uri: https://siec-brn.ru/tilda-blocks-page41106066.min.css?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41106066.min.css
+Content Type: text/css
+
+Uri: https://siec-brn.ru/tilda-blocks-page41106066.min.js?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41106066.min.js
+Content Type: application/javascript
+
+Uri: https://siec-brn.ru/tilda-blocks-page41106334.min.css?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41106334.min.css
+Content Type: text/css
+
+Uri: https://siec-brn.ru/tilda-blocks-page41106334.min.js?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41106334.min.js
+Content Type: application/javascript
+
+Uri: https://siec-brn.ru/tilda-blocks-page41106398.min.css?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41106398.min.css
+Content Type: text/css
+
+Uri: https://siec-brn.ru/tilda-blocks-page41106398.min.js?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41106398.min.js
+Content Type: text/javascript
+
+Uri: https://siec-brn.ru/tilda-blocks-page41112560.min.css?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41112560.min.css
+Content Type: text/css
+
+Uri: https://siec-brn.ru/tilda-blocks-page41112560.min.js?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41112560.min.js
+Content Type: application/javascript
+
+Uri: https://siec-brn.ru/tilda-blocks-page41139600.min.css?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41139600.min.css
+Content Type: text/css
+
+Uri: https://siec-brn.ru/tilda-blocks-page41139600.min.js?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41139600.min.js
+Content Type: application/javascript
+
+Uri: https://siec-brn.ru/tilda-blocks-page41139882.min.css?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41139882.min.css
+Content Type: text/css
+
+Uri: https://siec-brn.ru/tilda-blocks-page41139882.min.js?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41139882.min.js
+Content Type: text/javascript
+
+Uri: https://siec-brn.ru/tilda-blocks-page41139965.min.css?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41139965.min.css
+Content Type: text/css
+
+Uri: https://siec-brn.ru/tilda-blocks-page41139965.min.js?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41139965.min.js
+Content Type: text/javascript
+
+Uri: https://siec-brn.ru/tilda-blocks-page41140041.min.css?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41140041.min.css
+Content Type: text/css
+
+Uri: https://siec-brn.ru/tilda-blocks-page41140041.min.js?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41140041.min.js
+Content Type: application/javascript
+
+Uri: https://siec-brn.ru/tilda-blocks-page41140087.min.css?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41140087.min.css
+Content Type: text/css
+
+Uri: https://siec-brn.ru/tilda-blocks-page41140087.min.js?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41140087.min.js
+Content Type: text/javascript
+
+Uri: https://siec-brn.ru/tilda-blocks-page41140138.min.css?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41140138.min.css
+Content Type: text/css
+
+Uri: https://siec-brn.ru/tilda-blocks-page41140138.min.js?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41140138.min.js
+Content Type: application/javascript
+
+Uri: https://siec-brn.ru/tilda-blocks-page41140205.min.css?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41140205.min.css
+Content Type: text/css
+
+Uri: https://siec-brn.ru/tilda-blocks-page41140205.min.js?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41140205.min.js
+Content Type: application/javascript
+
+Uri: https://siec-brn.ru/tilda-blocks-page41140258.min.css?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41140258.min.css
+Content Type: text/css
+
+Uri: https://siec-brn.ru/tilda-blocks-page41140258.min.js?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41140258.min.js
+Content Type: application/javascript
+
+Uri: https://siec-brn.ru/tilda-blocks-page41140320.min.css?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41140320.min.css
+Content Type: text/css
+
+Uri: https://siec-brn.ru/tilda-blocks-page41140320.min.js?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41140320.min.js
+Content Type: text/javascript
+
+Uri: https://siec-brn.ru/tilda-blocks-page41140531.min.css?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41140531.min.css
+Content Type: text/css
+
+Uri: https://siec-brn.ru/tilda-blocks-page41140531.min.js?t=1707121107
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41140531.min.js
+Content Type: application/javascript
+
+Uri: https://siec-brn.ru/tilda-blocks-page41179120.min.css?t=1707121114
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41179120.min.css
+Content Type: text/css
+
+Uri: https://siec-brn.ru/tilda-blocks-page41179120.min.js?t=1707121114
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41179120.min.js
+Content Type: application/javascript
+
+Uri: https://siec-brn.ru/tilda-blocks-page41179407.min.css?t=1707121114
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41179407.min.css
+Content Type: text/css
+
+Uri: https://siec-brn.ru/tilda-blocks-page41179407.min.js?t=1707121114
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41179407.min.js
+Content Type: application/javascript
+
+Uri: https://siec-brn.ru/tilda-blocks-page41179581.min.css?t=1707121114
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41179581.min.css
+Content Type: text/css
+
+Uri: https://siec-brn.ru/tilda-blocks-page41179581.min.js?t=1707121114
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tilda-blocks-page41179581.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\siec-brn.ru\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\siec-brn.ru\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-popup-1.1.min.css
+File Name: C:\Downloaded Web Sites\siec-brn.ru\css\tilda-popup-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\siec-brn.ru\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-sbs-1.0.min.js
+File Name: C:\Downloaded Web Sites\siec-brn.ru\js\tilda-animation-sbs-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\siec-brn.ru\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-lazyload-1.0.min.js
+File Name: C:\Downloaded Web Sites\siec-brn.ru\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\siec-brn.ru\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-popup-1.0.min.js
+File Name: C:\Downloaded Web Sites\siec-brn.ru\js\tilda-popup-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\siec-brn.ru\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-t431-table-1.0.min.js
+File Name: C:\Downloaded Web Sites\siec-brn.ru\js\tilda-t431-table-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\siec-brn.ru\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-scale-1.0.min.js
+File Name: C:\Downloaded Web Sites\siec-brn.ru\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3131-3565-4039-b930-336134663438/Montserrat-Bold.woff
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tild3131-3565-4039-b930-336134663438\Montserrat-Bold.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild3133-3331-4561-b137-633234363438/Montserrat-Medium.woff
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tild3133-3331-4561-b137-633234363438\Montserrat-Medium.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild3735-6632-4238-b933-323239346336/Union_1.ico
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tild3735-6632-4238-b933-323239346336\Union_1.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://static.tildacdn.com/tild6165-6330-4330-b038-613839626332/Robotolight.woff
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tild6165-6330-4330-b038-613839626332\Robotolight.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6431-3430-4434-a136-623564336631/Robotobold.woff
+File Name: C:\Downloaded Web Sites\siec-brn.ru\tild6431-3430-4434-a136-623564336631\Robotobold.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/ws/project8083631/tilda-blocks-page40946157.min.css?t=1742890999
+File Name: C:\Downloaded Web Sites\siec-brn.ru\ws\project8083631\tilda-blocks-page40946157.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/ws/project8083631/tilda-blocks-page40946157.min.js?t=1742890999
+File Name: C:\Downloaded Web Sites\siec-brn.ru\ws\project8083631\tilda-blocks-page40946157.min.js
+Content Type: application/javascript
+
+cation/javascript
+
